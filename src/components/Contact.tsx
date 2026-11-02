@@ -101,10 +101,10 @@ export function Contact() {
               href="mailto:oiahadchoyon@gmail.com"
               className="text-lg lg:text-xl text-gray-300 hover:text-white transition-colors underline underline-offset-4"
             >
-              oiahadchoyon@gmail.com
+              oli.choyon.1525@gmail.com
             </a>
             <a
-              href="https://github.com/oiahadchoyon"
+              href="https://github.com/oliahadchoyon"
               target="_blank"
               rel="noopener noreferrer"
               className="text-lg lg:text-xl text-gray-300 hover:text-white transition-colors underline underline-offset-4"
@@ -112,7 +112,7 @@ export function Contact() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/oiahadchoyon"
+              href="https://www.linkedin.com/in/oli-ahad-choyon-86b576245/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-lg lg:text-xl text-gray-300 hover:text-white transition-colors underline underline-offset-4"

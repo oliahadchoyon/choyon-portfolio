@@ -133,12 +133,12 @@ export function Education() {
               className="lg:order-1"
             >
               <img
-                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                src="https://images.unsplash.com/photo-1763568258338-94886e7533ab?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                 alt="Design sketches and notes"
                 className="w-full h-auto grayscale"
               />
               <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
-                DESIGN SYSTEMS & PROTOTYPING
+                FOUNDATIONS OF PROMPT ENGINEERING
               </p>
             </motion.div>
           </div>
@@ -168,12 +168,11 @@ export function Education() {
               className="lg:order-1"
             >
               <img
-                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
-                alt="Design sketches and notes"
+                src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                 className="w-full h-auto grayscale"
               />
               <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
-                DESIGN SYSTEMS & PROTOTYPING
+                GENAI POWERED DATA ANALYTICS
               </p>
             </motion.div>
           </div>
@@ -204,12 +203,12 @@ export function Education() {
               className="lg:order-1"
             >
               <img
-                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                src="https://images.unsplash.com/photo-1664526936810-ec0856d31b92?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                 alt="Design sketches and notes"
                 className="w-full h-auto grayscale"
               />
               <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
-                DESIGN SYSTEMS & PROTOTYPING
+                INTRODUCTION TO MODEL CONTEXT PROTOCOL (MCP) 
               </p>
             </motion.div>
           </div>
@@ -239,12 +238,12 @@ export function Education() {
               className="lg:order-1"
             >
               <img
-                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                src="https://images.unsplash.com/photo-1586717799252-bd134ad00e26?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
                 alt="Design sketches and notes"
                 className="w-full h-auto grayscale"
               />
               <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
-                DESIGN SYSTEMS & PROTOTYPING
+                BASICS OF UI UX STRATEGY
               </p>
             </motion.div>
           </div>

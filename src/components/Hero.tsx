@@ -51,9 +51,7 @@ export function Hero() {
               transition={{ delay: 0.5, duration: 0.8 }}
               className="mt-6 md:mt-8 text-sm sm:text-base text-white/80 max-w-sm md:max-w-md leading-relaxed"
             >
-              CSE graduate and software engineer based in Dhaka, Bangladesh —
-              building clean, reliable web applications with a strong passion
-              for UI/UX design and crafting experiences people love to use.
+              Aspiring AI Engineer with a Computer Science background and a strong interest in Artificial Intelligence and Machine Learning. Skilled in Python, data analysis, and predictive modeling, with foundational knowledge of machine learning techniques and modern AI technologies. Experienced in academic and practical projects involving technology-driven problem-solving, with a strong eagerness to develop intelligent solutions and contribute to real-world AI applications.
             </motion.p>
           </motion.div>
         </div>

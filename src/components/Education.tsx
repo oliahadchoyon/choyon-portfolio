@@ -114,15 +114,120 @@ export function Education() {
             >
               <div>
                 <h3 className="text-xl lg:text-2xl font-light text-white mb-4">
-                  Foundations of Prompt Engineering
+                  Foundations of Prompt Engineering | AWS Skill Builder (Amazon Web Services)
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-4 text-sm lg:text-base">
-                  Learned prompt engineering principles, zero-shot and few-shot prompting, advanced prompting techniques, and
-strategies for mitigating bias and preventing prompt misuse in foundation models.
+                  Learned prompt engineering principles, zero-shot and few-shot prompting, advanced prompting techniques, and strategies for mitigating bias and preventing prompt misuse in foundation models.
 
                 </p>
                 <p className="text-sm text-gray-500 tracking-widest uppercase">
-                  Ongoing — Always learning
+                  October 2026
+                </p>
+              </div>
+              
+            </motion.div>
+
+            <motion.div
+              {...fadeInUp}
+              transition={{ ...fadeInUp.transition, delay: 0.2 }}
+              className="lg:order-1"
+            >
+              <img
+                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                alt="Design sketches and notes"
+                className="w-full h-auto grayscale"
+              />
+              <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
+                DESIGN SYSTEMS & PROTOTYPING
+              </p>
+            </motion.div>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-24">
+            <motion.div
+              {...fadeInUp}
+              className="flex items-center lg:order-2"
+            >
+              <div>
+                <h3 className="text-xl lg:text-2xl font-light text-white mb-4">
+                  GenAI Powered Data Analytics | Tata iQ : Forage
+                </h3>
+                <p className="text-gray-400 leading-relaxed mb-4 text-sm lg:text-base">
+                  Completed the Tata Group Data Analytics Job Simulation on Forage, conducting exploratory data analysis (EDA) using GenAI tools, developing a no-code predictive modeling framework for customer delinquency risk assessment, and proposing an AI-driven collections strategy incorporating agentic AI, ethical AI, and regulatory compliance.
+
+                </p>
+                <p className="text-sm text-gray-500 tracking-widest uppercase">
+                  October 2026
+                </p>
+              </div>
+              
+            </motion.div>
+
+            <motion.div
+              {...fadeInUp}
+              transition={{ ...fadeInUp.transition, delay: 0.2 }}
+              className="lg:order-1"
+            >
+              <img
+                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                alt="Design sketches and notes"
+                className="w-full h-auto grayscale"
+              />
+              <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
+                DESIGN SYSTEMS & PROTOTYPING
+              </p>
+            </motion.div>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-24">
+            <motion.div
+              {...fadeInUp}
+              className="flex items-center lg:order-2"
+            >
+              <div>
+                <h3 className="text-xl lg:text-2xl font-light text-white mb-4">
+                  Introduction to Model Context Protocol (MCP) — Completion Badge | Claude Academy, Anthropic
+                </h3>
+                <p className="text-gray-400 leading-relaxed mb-4 text-sm lg:text-base">
+                  Learned MCP architecture and Python-based server/client development using tools, resources, and prompts.
+
+
+                </p>
+                <p className="text-sm text-gray-500 tracking-widest uppercase">
+                   2026
+                </p>
+              </div>
+              
+            </motion.div>
+
+            <motion.div
+              {...fadeInUp}
+              transition={{ ...fadeInUp.transition, delay: 0.2 }}
+              className="lg:order-1"
+            >
+              <img
+                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                alt="Design sketches and notes"
+                className="w-full h-auto grayscale"
+              />
+              <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
+                DESIGN SYSTEMS & PROTOTYPING
+              </p>
+            </motion.div>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-24">
+            <motion.div
+              {...fadeInUp}
+              className="flex items-center lg:order-2"
+            >
+              <div>
+                <h3 className="text-xl lg:text-2xl font-light text-white mb-4">
+                  Basics of UI UX Strategy | UniAthena in partnership with Cambridge International Qualifications, UK
+                </h3>
+                <p className="text-gray-400 leading-relaxed mb-4 text-sm lg:text-base">
+                  Gained foundational knowledge of UI/UX strategy, user-centered design principles, and effective digital product planning.
+
+                </p>
+                <p className="text-sm text-gray-500 tracking-widest uppercase">
+                   2026
                 </p>
               </div>
               

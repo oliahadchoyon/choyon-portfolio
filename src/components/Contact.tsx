@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const infoRows = [
   { label: "LOCATION", value: "DHAKA, BANGLADESH" },
   { label: "AVAILABILITY", value: "REMOTE / ON-SITE" },
-  { label: "FOCUS", value: "SOFTWARE ENGINEERING & UI/UX" },
+  { label: "FOCUS", value: "AI/ML ENGINEER, DATA ANALYST & UI/UX DESIGNER" },
 ];
 
 const fadeInUp = {
@@ -57,12 +57,12 @@ export function Contact() {
           <h3 className="text-xl md:text-2xl lg:text-3xl text-white font-light leading-tight mb-4">
             I'M LOOKING FOR
             <br />
-            JUNIOR SOFTWARE ENGINEER
+            AI/ML ENGINEER, DATA ANALYST
             <br />
             ROLES & UI/UX WORK
           </h3>
           <p className="text-sm text-gray-500 tracking-widest uppercase">
-            INTERNSHIPS, FULL-TIME ROLES, OR FREELANCE PROJECTS — ALL WELCOME
+            INTERNSHIPS, FULL-TIME ROLES — ALL WELCOME
           </p>
         </motion.div>
 

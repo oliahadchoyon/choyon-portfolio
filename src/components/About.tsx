@@ -39,11 +39,7 @@ export function About() {
             className="order-1 lg:order-2 flex items-center"
           >
             <p className="text-base lg:text-lg text-gray-300 leading-relaxed">
-              I'm Oli Ahad Choyon, a software engineer from Dhaka, Bangladesh.
-              I recently completed my Bachelor's degree in Computer Science
-              & Engineering, where I fell in love with two things: writing
-              clean, well-structured code — and designing interfaces that
-              feel effortless to use.
+              I am a technology enthusiast with interests in Artificial Intelligence, Machine Learning, Data Analytics, and UI/UX Design. Experienced in academic projects involving deep learning, predictive modeling, and medical image classification, I enjoy combining analytical thinking with creative problem-solving to develop innovative, user-focused solutions.
             </p>
           </motion.div>
         </div>
@@ -54,10 +50,10 @@ export function About() {
           className="mb-24 lg:mb-32"
         >
           <h2 className="font-display text-[8vw] lg:text-section leading-none tracking-tight text-gray-300">
-            "CODE IS HOW I<br />
-            <span className="text-white underline underline-offset-8">THINK</span>, DESIGN IS<br />
-            HOW I CARE ABOUT<br />
-            THE PEOPLE USING IT."
+            "TURNING IDEAS INTO<br />
+            <span className="text-white underline underline-offset-8">INTELLIGENT</span>, DATA-DRIVEN,<br />
+            AND USER-CENTERED<br />
+            SOLUTIONS."
           </h2>
           <p className="mt-6 text-sm text-gray-500 tracking-widest uppercase">
             ENGINEERING × UI/UX

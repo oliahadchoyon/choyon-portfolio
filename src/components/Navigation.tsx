@@ -13,9 +13,9 @@ const navItems = [
 ]
 
 const socialLinks = [
-  { label: 'GitHub', href: 'https://github.com/oiahadchoyon' },
-  { label: 'LinkedIn', href: 'https://linkedin.com/in/oiahadchoyon' },
-  { label: 'Mail', href: 'mailto:oiahadchoyon@gmail.com' },
+  { label: 'GitHub', href: 'https://github.com/oliahadchoyon' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/oli-ahad-choyon-86b576245/' },
+  { label: 'Mail', href: 'mailto:oli.choyon.1525@gmail.com' },
 ]
 
 export function Navigation() {

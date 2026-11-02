@@ -3,36 +3,39 @@ import { motion } from 'framer-motion'
 const projects = [
   {
     title: 'Castle Black',
-    type: 'Password Manager',
-    description: `Developed a secure Flutter-based password manager with PIN and biometric authentication.
-•Implemented password generation, vault management, credit card storage, and multi-source password import.
-•Integrated Android AutoFill functionality and designed a user-friendly interface for secure credential management.
-`,
-    tech: ['React', 'Node.js', 'Express', 'PostgreSQL'],
-    github: '#',
+    type: 'Password Manager | 2026',
+    description: 'Developed a secure Flutter-based password manager with PIN/biometric authentication, password generation, vault management, credit card storage, multi-source password import, and Android AutoFill integration. Implemented a secure and user-friendly interface for managing digital credentials.',
+    tech: ['Flutter', 'Dart', 'Android Kotlin', 'Secure Storage', 'Biometric Authentication'],
+    github: 'https://github.com/oliahadchoyon/Castle-Black',
     live: '#',
   },
   {
-    title: 'Task Management App',
-    type: 'Web Application',
-    description: 'A Kanban-style productivity app with drag-and-drop boards, deadlines, labels, and team collaboration. Focused on a clean, distraction-free UI designed first in Figma.',
-    tech: ['Next.js', 'TypeScript', 'Tailwind CSS'],
-    github: '#',
-    live: '#',
-  },
-  {
-    title: 'Real-Time Chat Application',
-    type: 'Full-Stack Web App',
-    description: 'Instant messaging with rooms, online presence indicators, and message history. Built on WebSockets with a React front end and a Node.js backend.',
-    tech: ['React', 'Socket.io', 'Node.js', 'MongoDB'],
-    github: '#',
+    title: 'TeleDoc',
+    type: 'Telemedicine Platform | 2024',
+    description: 'Developed a web-based telemedicine platform designed to facilitate digital healthcare services and doctor-patient interactions. Implemented structured modules, routing, database integration, and doctor management features to support an organized, accessible healthcare system. ',
+    tech: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
+    github: 'https://github.com/oliahadchoyon/CSE_316_project_TeleDoc',
     live: '#',
   },
   {
     title: 'A Classical Pattern Recognition Framework with Explainable Artificial Intelligence (XAI) for Multi-Class Lung Cancer Classification Using Medical Images',
-    type: 'Academic Project',
+    type: 'Academic Project (Thesis) | 2026',
     description: 'Developed a hybrid deep learning framework combining EfficientNetV2-S and Vision Transformer (ViT-B/16) for multi-class lung CT image classification. Integrated feature fusion, dynamic ensemble learning, and Grad-CAM for explainable predictions, achieving 96.13% test accuracy and 0.9914 ROC-AUC across Benign, Malignant, and Normal classes.',
     tech: ["Python", 'TensorFlow', 'Keras', 'Scikit-learn', 'NumPy', 'Pandas', 'XGBoost', 'CatBoost', 'Flutter'],
+    github: '#',
+  },
+  {
+    title: 'Student Performance Prediction Using Machine Learning',
+    type: 'Academic Project | 2025',
+    description: 'Developed a machine learning-based system to predict student academic performance using lifestyle and academic-related factors. Applied data preprocessing, exploratory data analysis, and predictive modeling to identify patterns influencing student performance.',
+    tech: ['Python', 'Pandas', 'NumPy', 'Scikit-learn', 'Matplotlib', 'Seaborn'],
+    github: '#',
+  },
+   {
+    title: 'Spam SMS Detection Using Machine Learning',
+    type: 'Academic Project | 2025',
+    description: 'Developed a machine learning-based system to classify SMS messages as spam or legitimate (ham). Applied text preprocessing, feature extraction, and classification techniques to identify spam patterns and improve message detection.',
+    tech: ['Python', 'Pandas', 'NumPy', 'Scikit-learn', 'NLTK', 'TF-IDF'],
     github: '#',
   },
   {

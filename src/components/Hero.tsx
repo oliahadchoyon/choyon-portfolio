@@ -26,7 +26,7 @@ export function Hero() {
             <h1 className="font-display leading-none tracking-[0.02em] text-[14vw] sm:text-[11vw] md:text-hero">
               <span className="block text-white">OLI AHAD</span>
               <span className="block text-white">CHOYON</span>
-              <span className="block text-white/70">AI/ML</span>
+              <span className="block text-white/70">AI/ML, Data Analytics, UI/UX Designer</span>
             </h1>
 
             {/* Open to work badge */}

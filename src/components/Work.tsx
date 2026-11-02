@@ -2,9 +2,12 @@ import { motion } from 'framer-motion'
 
 const projects = [
   {
-    title: 'E-Commerce Platform',
-    type: 'Full-Stack Web App',
-    description: 'A complete online store with product catalog, cart, checkout flow, and an admin dashboard for inventory and order management. Built with authentication, role-based access, and payment-ready architecture.',
+    title: 'Castle Black',
+    type: 'Password Manager',
+    description: `Developed a secure Flutter-based password manager with PIN and biometric authentication.
+•Implemented password generation, vault management, credit card storage, and multi-source password import.
+•Integrated Android AutoFill functionality and designed a user-friendly interface for secure credential management.
+`,
     tech: ['React', 'Node.js', 'Express', 'PostgreSQL'],
     github: '#',
     live: '#',
@@ -26,10 +29,10 @@ const projects = [
     live: '#',
   },
   {
-    title: 'University Portal',
+    title: 'A Classical Pattern Recognition Framework with Explainable Artificial Intelligence (XAI) for Multi-Class Lung Cancer Classification Using Medical Images',
     type: 'Academic Project',
-    description: 'A student information portal for course enrollment, grades, and schedules — my CSE capstone project. Includes an admin panel for faculty and a responsive student dashboard.',
-    tech: ['Java', 'MySQL', 'Figma'],
+    description: 'Developed a hybrid deep learning framework combining EfficientNetV2-S and Vision Transformer (ViT-B/16) for multi-class lung CT image classification. Integrated feature fusion, dynamic ensemble learning, and Grad-CAM for explainable predictions, achieving 96.13% test accuracy and 0.9914 ROC-AUC across Benign, Malignant, and Normal classes.',
+    tech: ["Python", 'TensorFlow', 'Keras', 'Scikit-learn', 'NumPy', 'Pandas', 'XGBoost', 'CatBoost', 'Flutter'],
     github: '#',
   },
   {
@@ -137,7 +140,7 @@ export function Work() {
           className="mt-12 lg:mt-16"
         >
           <a
-            href="https://github.com/oiahadchoyon"
+            href="https://github.com/oliahadchoyon"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 border border-gray-700 rounded-full px-6 py-3 text-sm text-gray-300 tracking-widest uppercase hover:bg-gray-900 hover:text-white transition-colors"

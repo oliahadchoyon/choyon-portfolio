@@ -49,7 +49,8 @@ export function Education() {
             >
               <div>
                 <h3 className="text-xl lg:text-2xl font-light text-white mb-4">
-                  B.Sc. in Computer Science & Engineering
+                  B.Sc. in Computer Science & Engineering <br></br>
+                  DAFFODIL INTERNATIONAL UNIVERSITY 
                 </h3>
                 <p className="text-gray-400 leading-relaxed mb-4 text-sm lg:text-base">
                   Four years of algorithms, data structures, databases,
@@ -59,7 +60,7 @@ export function Education() {
                   my passion for building interfaces began.
                 </p>
                 <p className="text-sm text-gray-500 tracking-widest uppercase">
-                  Completed — Open for opportunities
+                  Completed 2026 — Open for opportunities
                 </p>
               </div>
             </motion.div>
@@ -86,6 +87,45 @@ export function Education() {
                   Ongoing — Always learning
                 </p>
               </div>
+
+            </motion.div>
+
+            <motion.div
+              {...fadeInUp}
+              transition={{ ...fadeInUp.transition, delay: 0.2 }}
+              className="lg:order-1"
+            >
+              <img
+                src="https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200"
+                alt="Design sketches and notes"
+                className="w-full h-auto grayscale"
+              />
+              <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
+                DESIGN SYSTEMS & PROTOTYPING
+              </p>
+            </motion.div>
+          </div>
+
+          {/* CERTIFICATES */}
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-24">
+            <motion.div
+              {...fadeInUp}
+              className="flex items-center lg:order-2"
+            >
+              <div>
+                <h3 className="text-xl lg:text-2xl font-light text-white mb-4">
+                  Foundations of Prompt Engineering
+                </h3>
+                <p className="text-gray-400 leading-relaxed mb-4 text-sm lg:text-base">
+                  Learned prompt engineering principles, zero-shot and few-shot prompting, advanced prompting techniques, and
+strategies for mitigating bias and preventing prompt misuse in foundation models.
+
+                </p>
+                <p className="text-sm text-gray-500 tracking-widest uppercase">
+                  Ongoing — Always learning
+                </p>
+              </div>
+              
             </motion.div>
 
             <motion.div

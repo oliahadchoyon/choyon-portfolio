@@ -23,10 +23,10 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: 'easeOut' }}
           >
-            <h1 className="font-display leading-none tracking-[0.02em] text-[14vw] sm:text-[11vw] md:text-hero">
+            <h1 className="font-display leading-none tracking-[0.02em] text-[10vw] sm:text-[8vw] md:text-7xl">
               <span className="block text-white">OLI AHAD</span>
               <span className="block text-white">CHOYON</span>
-              <span className="block text-white/70">AI/ML, Data Analytics, UI/UX Designer</span>
+              <span className="block text-[4vw] sm:text-[2vw] md:text-2xl text-white/50">AI/ML, Data Analytics, UI/UX Designer</span>
             </h1>
 
             {/* Open to work badge */}
